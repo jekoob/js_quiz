@@ -2,7 +2,7 @@
 var quiz = [  // array list of a quiz.
 ["How many demantions do we know?","3","THREE"],
 ["Tow additon tow is ?","4","FOUR"],
-["What is the the bigest continent on the harth?","RUSSIA"],
+["What is the the bigest continent on the earth?","RUSSIA"],
 ["What does mean the acronyms JS?","JAVASCRIPT"],
 ["What are the three marks for asigning the 3D for the axis system?","XYZ","XZY","YXZ","YZX","ZXY","ZYX"]
 ];
